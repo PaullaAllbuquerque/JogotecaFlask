@@ -1,2 +1,2 @@
 # JogotecaFlask
-Projeto web Flask-Python
+Projeto web Flask-Python-Mysql
